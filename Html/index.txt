@@ -1,0 +1,66 @@
+                                        <!-- HTML -->
+html(hyper text markup language) -> structure
+css(cascading style sheet) -> styling 
+js(javascript) -> logic
+
+DEFINITOIN OF HTML:
+HTML is used to structure the web pages and it's content
+
+HTML Tags:
+The component used to desing the structure of website are called html tags .
+
+In html we use ! (exclamtion marks) to boiler plate 
+!(exclamation mark) is the emmet abbreviation
+
+<p>this is paragaraph</p>: this is HTML element
+this is paragraph : is a content
+
+Comment : Compiler ignore the code
+comment short key: Contrl + forwad slash(/)
+
+
+toggle word wrap: short cut key is Alt + z
+
+apny hi page ka link called (relative link)
+kisi dosry ke page ka link called (absolute link)
+
+hr: horizontal ruler tag differnt sections divide karta hy
+
+sub tag : text halka sa neechy ata hy
+sup tag : text halaka sa uper ata hy 
+
+PRE tag jitna space/gap dete ho, utna hi show karta hai.
+
+Semantic Tags (meaning wale tags)
+Ye HTML ko meaning dete hain, SEO friendly hote hain.
+
+Non-Semantic Tags (meaning nahi dete)
+Jaise: <div>, <span>
+Sirf layout banane ka kaam krty hy.
+
+Semantic Tags Explanation (Short):
+1. <main>
+Page ka main content yahan hota hai.
+Header, footer isme nahi ate.
+
+2. <section>
+Page ka topic-based part.
+Jaise: Features section, Services section.
+
+3. <article>
+Aisa content jo independently exist kar sakta ho.
+Jaise: Blog post, news article, card.
+
+4. <aside>
+Side content — usually sidebar, ads, related links.
+
+
+<video> tag kya hota hai?
+Webpage par video play karne ke liye use hota hai.
+Most useful attributes:
+controls → play, pause, volume buttons show karta hai
+autoplay → page load hote hi video start
+loop → video repeat hoti rahe
+muted → video mute se start
+poster="image.jpg" → video start se pehle thumbnail image
+width / height → size set karta hai
